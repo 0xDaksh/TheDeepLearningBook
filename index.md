@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## The Deep Learning Book
 
-You can use the [editor on GitHub](https://github.com/DakshMiglani/TheDeepLearningBook/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DakshMiglani/TheDeepLearningBook/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Table of Contents](http://www.deeplearningbook.org/contents/TOC.html)
+- [Acknowledgements](http://www.deeplearningbook.org/contents/acknowledgements.html)
+- [Notation](http://www.deeplearningbook.org/contents/notation.html)
+- [Introduction](http://www.deeplearningbook.org/contents/intro.html)
+- [Part I: Applied Math and Machine Learning Basics](http://www.deeplearningbook.org/contents/part_basics.html)
+  - [Linear Algebra](http://www.deeplearningbook.org/contents/linear_algebra.html)
+  - [Probability and Information Theory](http://www.deeplearningbook.org/contents/prob.html)
+  - [Numerical Computation](http://www.deeplearningbook.org/contents/numerical.html)
+  - [Machine Learning Basics](http://www.deeplearningbook.org/contents/ml.html)
+  
+  
+### Notes & Credits:
+Authored by: Ian Goodfellow and Yoshua Bengio and Aaron Courville
+Publisher: MIT Press
+Release Year: 2016
+URL: [Deep Learning Book](http://www.deeplearningbook.org)
